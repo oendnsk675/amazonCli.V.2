@@ -43,7 +43,7 @@ while (count(file($namaFile)) > 1) {
 	file_put_contents($namaOutputDbug, "");
 	
 }
-file_put_contents("empas.txt", "");
+file_put_contents($namaFile, "");
 function hapus(){
 	global $namaFile;
 	$getsdas = file_get_contents($namaFile);
