@@ -1,12 +1,12 @@
 ###############   credit  ################
 #     jika mau recode,jangann hapus      #
-#  				credit ini 				 #
-#		   checker cli amazon v2		 #
-#			    created by 				 #
-#		  sayidina ahmadal qososyi 	 	 #
-#			  eastlombok team 	 		 #
-#  		  website : eastlombok.xyz       #
-#	 youtube : https://bit.ly/3hhtaqN 	 #
+#  		credit ini 		 #
+#        checker cli amazon v2		 #
+#		 created by 		 #
+#	sayidina ahmadal qososyi 	 #
+#	  eastlombok team 	 	 #
+#  	 website : eastlombok.xyz        #
+#`     youtube : https://bit.ly/3hhtaqN  #
 ##########################################
 
 1.harus install php dulu guys
