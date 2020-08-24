@@ -31,7 +31,7 @@ function checker($email,$password,$token){
 	$curl = curl_init();
 
 	curl_setopt_array($curl, array(
-		CURLOPT_URL => "http://eastlombok.xyz/restApi/api.php?check=amazonV2&key=$token&tipe=valid",
+		CURLOPT_URL => "http://eastlombok.xyz/restApi/api.php?check=amazon&key=$token&tipe=valid",
 		CURLOPT_RETURNTRANSFER => true,
 		CURLOPT_ENCODING => "",
 		CURLOPT_MAXREDIRS => 10,
